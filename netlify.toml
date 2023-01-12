@@ -4,3 +4,10 @@
 
 [[plugins]]
   package = "netlify-plugin-cypress"
+  
+[[redirects]]
+  from = "/subdirectory"
+  to = "https://division-stunned-footbath.sbx.pgsdemo.com"
+  status = 200
+  force = true
+  headers = {Host = "https://division-stunned-footbath.sbx.pgsdemo.com"}
