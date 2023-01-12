@@ -7,7 +7,7 @@
   
 [[redirects]]
   from = "/subdirectory"
-  to = "https://division-stunned-footbath.sbx.pgsdemo.com"
+  to = "https://reverseproxy-division--stunned--footbath-sbx-pgsdemo-com.sbx.preview.pagescdn.com"
   status = 200
   force = true
-  headers = {Host = "https://division-stunned-footbath.sbx.pgsdemo.com"}
+  headers = {Host = "https://reverseproxy-division--stunned--footbath-sbx-pgsdemo-com.sbx.preview.pagescdn.com"}
