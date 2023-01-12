@@ -6,8 +6,8 @@
   package = "netlify-plugin-cypress"
   
 [[redirects]]
-  from = "/subdirectory"
-  to = "https://reverseproxy-division--stunned--footbath-sbx-pgsdemo-com.sbx.preview.pagescdn.com"
+  from = "/subdirectory/*"
+  to = "https://reverseproxy-division--stunned--footbath-sbx-pgsdemo-com.sbx.preview.pagescdn.com/:splat"
   status = 200
   force = true
   headers = {Host = "https://reverseproxy-division--stunned--footbath-sbx-pgsdemo-com.sbx.preview.pagescdn.com"}
