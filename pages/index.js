@@ -14,7 +14,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          an example of <link href="/subdirectory">Yext Pages being reverse proxied</Link> onto a site.
+          an example of <Link href="/subdirectory">Yext Pages being reverse proxied</Link> onto a site.
         </p>
       </main>
 
