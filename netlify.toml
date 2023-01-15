@@ -7,7 +7,7 @@
   
 [[redirects]]
   from = "/subdirectory/*"
-  to = "https://reverseproxy-division--stunned--footbath-sbx-pgsdemo-com.sbx.preview.pagescdn.com/:splat"
+  to = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/:splat"
   status = 200
   force = true
-  headers = {Host = "https://reverseproxy-division--stunned--footbath-sbx-pgsdemo-com.sbx.preview.pagescdn.com"}
+  headers = {Host = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/"}
