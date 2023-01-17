@@ -4,6 +4,13 @@
 
 [[plugins]]
   package = "netlify-plugin-cypress"
+
+[[redirects]]
+  from = "/subdirectory/assets/*"
+  to = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/assets/:splat"
+  status = 200
+  force = true
+  headers = {}
   
 [[redirects]]
   from = "/subdirectory/*"
@@ -11,10 +18,3 @@
   status = 200
   force = true
   headers = {Host = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/"}
-
-[[redirects]]
-  from = "/assets/*"
-  to = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/assets/:splat"
-  status = 200
-  force = true
-  headers = {}
