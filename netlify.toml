@@ -7,13 +7,13 @@
   
 [[redirects]]
   from = "/subdirectory/*"
-  to = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/:splat"
+  to = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/subdirectory/:splat"
   status = 200
   force = true
   headers = {Host = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/"}
 
 [[redirects]]
-  from = "/subdirectory/assets/*"
+  from = "/assets/*"
   to = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/assets/:splat"
   status = 200
   force = true
