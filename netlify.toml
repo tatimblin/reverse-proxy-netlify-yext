@@ -11,17 +11,10 @@
   status = 200
   force = true
   headers = {}
-
-[[redirects]]
-  from = "/assets/*"
-  to = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/assets/:splat"
-  status = 200
-  force = true
-  headers = {}
   
 [[redirects]]
   from = "/subdirectory/*"
-  to = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/subdirectory/:splat"
+  to = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/:splat"
   status = 200
   force = true
   headers = {Host = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/"}
