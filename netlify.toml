@@ -6,7 +6,7 @@
   package = "netlify-plugin-cypress"
   
 [[redirects]]
-  from = "/subdirectory/assets/*"
+  from = "/assets/*"
   to = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/assets/:splat"
   status = 200
   force = true
