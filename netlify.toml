@@ -7,21 +7,21 @@
   
 [[redirects]]
   from = "/assets/*"
-  to = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/assets/:splat"
+  to = "https://devpredeploymentfixes-locator-booker-co-uk-pagescdn-com.preview.pagescdn.com/assets/:splat"
   status = 200
   force = true
   headers = {}
   
 [[redirects]]
   from = "/subdirectory/*"
-  to = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/:splat"
+  to = "https://devpredeploymentfixes-locator-booker-co-uk-pagescdn-com.preview.pagescdn.com/:splat"
   status = 200
   force = true
-  headers = {Host = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/"}
+  headers = {Host = "https://devpredeploymentfixes-locator-booker-co-uk-pagescdn-com.preview.pagescdn.com/"}
   
 [[redirects]]
   from = "/subdirectory"
-  to = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/index.html"
+  to = "https://devpredeploymentfixes-locator-booker-co-uk-pagescdn-com.preview.pagescdn.com/index.html"
   status = 200
   force = true
-  headers = {Host = "https://devrelativeprefixtopath-brightly--radical--smelt-pgsdemo-com.preview.pagescdn.com/"}
+  headers = {Host = "https://devpredeploymentfixes-locator-booker-co-uk-pagescdn-com.preview.pagescdn.com/"}
